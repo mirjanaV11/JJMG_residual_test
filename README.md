@@ -2,7 +2,7 @@
 
 ## Authors
 Katarina Halaj Mileusnić,
-Bernhard Klar
+Bernhard Klar,
 Bojana Milosević,
 Mirjana Veljović
 
