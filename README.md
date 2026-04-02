@@ -1,10 +1,10 @@
 # JJMG_residual_test
 
 ## Authors
-Katarina Halaj Mileusnic
+Katarina Halaj Mileusnić,
 Bernhard Klar
-Bojana Milosevic
-Mirjana Veljovic
+Bojana Milosević,
+Mirjana Veljović
 
 
 ## Description
